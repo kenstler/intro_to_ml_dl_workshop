@@ -21,8 +21,8 @@
 
 9. Scroll down and click **Create notebook instance**.
 
-10. Once your notebook has been created and is available, click "Open Jupyter" to be redirected to your jupyter notebook instance.
+10. Once your notebook has been created and is available, click **Open Jupyter** to be redirected to your jupyter notebook instance.
 
-11. Click "Intro to Machine and Deep Learning.ipynb"
+11. Click **Intro to Machine and Deep Learning.ipynb**.
 
 12. Follow the instructions in the notebook.
