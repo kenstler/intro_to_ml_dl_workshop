@@ -17,8 +17,12 @@
 
 7. Click on the drop down underneath **Repository** and select **Clone a public Git repository to this notebook instance only**.
 
-8. Once your notebook has been created and is available, click "Open Jupyter" to be redirected to your jupyter notebook instance.
+8. Under **Git repository URL**, paste `https://github.com/kenstler/intro_to_ml_dl_workshop.git`.
 
-9. Click "Intro to Machine and Deep Learning.ipynb"
+9. Scroll down and click **Create notebook instance**.
 
-10. Follow the instructions in the notebook.
+10. Once your notebook has been created and is available, click "Open Jupyter" to be redirected to your jupyter notebook instance.
+
+11. Click "Intro to Machine and Deep Learning.ipynb"
+
+12. Follow the instructions in the notebook.
